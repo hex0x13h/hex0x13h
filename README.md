@@ -4,7 +4,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Discord: axhdiua
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+  axhdiua
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
